@@ -1,15 +1,16 @@
+#
 简介：
   python3多进程爆破程序，目前支持telnet/ftp/mysql/http401/smb/smtp/ssh
 
 
-
+#
 目录结构：
     conf: 配置文件
     lib:  函数库
     dict: 爆破字典目录
     mcrack.py  入口程序
 
-
+#
 使用简介：
   Usage: crack.py [options]
 
